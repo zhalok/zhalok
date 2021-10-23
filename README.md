@@ -2,7 +2,7 @@
 
 
 **zhalok/zhalok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![right](SelectionSortAnimationMid.gif)
+{: style="text-align: right" } ![](SelectionSortAnimationMid.gif)
 
 <!-- Here are some ideas to get you started:
 
