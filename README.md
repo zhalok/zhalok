@@ -2,7 +2,7 @@
 
 
 **zhalok/zhalok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](http://darcy.rsgc.on.ca/ACES/ICS3U/images/SelectionSortAnimationMid.gif)
+![](SelectionSortAnimationMid.gif)
 
 <!-- Here are some ideas to get you started:
 
