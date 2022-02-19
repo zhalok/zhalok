@@ -1,8 +1,4 @@
-<h1>Hi there</h1>
-
-
-
-![](SelectionSortAnimationMid.gif)
+<h1>Hi there</h1>          ![](SelectionSortAnimationMid.gif)
 
 <!-- Here are some ideas to get you started:
 
