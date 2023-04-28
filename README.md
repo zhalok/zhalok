@@ -22,10 +22,15 @@ My name is Zhalok Rahman and I'm a 4th year CSE undergrad. I'm from Bangladesh.
 <p align="center">
 <a href="https://www.linkedin.com/in/zhalok-rahman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a> 
 <!-- <br/> -->
-   <a href="https://www.kaggle.com/zhalokrahman" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Dev.To"></a>
      <a href="https://medium.com/@zhalokrahman007" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Dev.To"></a>
+    <a href="https://dev.to/zhalok" target="_blank"><img src="https://img.shields.io/badge/Dev.to-12100E?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
+</p>
 
-  <a href="https://dev.to/zhalok" target="_blank"><img src="https://img.shields.io/badge/Dev.to-12100E?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
+<p align="center">
+<!-- <br/> -->
+   
+     <a href="https://medium.com/@zhalokrahman007" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Dev.To"></a>
+    <a href="https://dev.to/zhalok" target="_blank"><img src="https://img.shields.io/badge/Dev.to-12100E?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
 </p>
 
 ## My stacks
