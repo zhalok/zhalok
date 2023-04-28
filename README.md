@@ -14,7 +14,7 @@ My name is Zhalok Rahman and I'm a 4th year CSE undergrad. I'm from Bangladesh.
   <a href="https://codeforces.com/profile/vegeta46" target="_blank"><img src="https://img.shields.io/badge/Codeforces-gray?style=for-the-badge&logo=codeforces&logoColor=white" alt="Twitter"></a>
 <!-- <br/> -->
   <a href="https://leetcode.com/zhalok/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-gold?style=for-the-badge&logo=leetcode&logoColor=white" alt="Twitter"></a>
-
+<a href="https://www.kaggle.com/zhalokrahman" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Dev.To"></a>
  
 
 </p>
