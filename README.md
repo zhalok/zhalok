@@ -26,12 +26,7 @@ My name is Zhalok Rahman and I'm a 4th year CSE undergrad. I'm from Bangladesh.
     <a href="https://dev.to/zhalok" target="_blank"><img src="https://img.shields.io/badge/Dev.to-12100E?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
 </p>
 
-<p align="center">
-<!-- <br/> -->
-   
-     <a href="https://medium.com/@zhalokrahman007" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Dev.To"></a>
-    <a href="https://dev.to/zhalok" target="_blank"><img src="https://img.shields.io/badge/Dev.to-12100E?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To"></a>
-</p>
+
 
 ## My stacks
 <img src="https://img.shields.io/badge/Languages-424242?style=for-the-badge&logo=plex&logoColor=FFFFFF"> <br/> ![badge-shell](https://img.shields.io/badge/JavaScript-211e1b?style=for-the-badge&logo=javascript&logoColor=79740e&labelColor=211e1b)
