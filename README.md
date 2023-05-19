@@ -7,7 +7,7 @@ My name is Zhalok Rahman and I'm a 4th year CSE undergrad. I'm from Bangladesh.
 
 
 - 👩‍🎓 I am Computer Vision enthusiast
-- 🌱 I’m currently learning Web Development and Machine Learning 
+- 🌱 I’m currently learning Web Development and Natural Language Processing
 - ⚡ I'm passionate about learning new things.
 
 <p align="center">
