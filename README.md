@@ -6,9 +6,9 @@ My name is Zhalok Rahman and I'm a Full-Stack Engineer at [Expatal](https://expa
 
 
 
-- 👩‍🎓 I am Computer Vision enthusiast
-- 🌱 I’m currently learning Web Development and Natural Language Processing
-- ⚡ I'm passionate about learning new things.
+- 🚀 I have some experience of Full-stack Development
+- 🤖 Experienced in developing AI-driven applications
+- 🧠 Have some knowledge of Neural Networks
 
 <p align="center">
   <a href="https://codeforces.com/profile/vegeta46" target="_blank"><img src="https://img.shields.io/badge/Codeforces-gray?style=for-the-badge&logo=codeforces&logoColor=white" alt="Twitter"></a>
