@@ -2,7 +2,7 @@
 
 # Hey Buddy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Zhalok Rahman and I'm a 4th year CSE undergrad. I'm from Bangladesh.
+My name is Zhalok Rahman and I'm a Full-Stack Engineer at [Expata](https://expatal.com/).
 
 
 
